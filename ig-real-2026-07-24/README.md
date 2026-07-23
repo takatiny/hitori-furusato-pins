@@ -4,7 +4,7 @@
 
 ## 画像（3枚・カルーセル順）
 1. https://raw.githubusercontent.com/takatiny/hitori-furusato-pins/master/ig-real-2026-07-24/ig-real-2026-07-24-kome.jpg （フック：炊きたてご飯クローズアップ）
-2. https://raw.githubusercontent.com/takatiny/hitori-furusato-pins/master/ig-real-2026-07-24/ig-real-2026-07-24-kome-2.jpg （詳細：寄附金額表・容量パターン）
+2. https://raw.githubusercontent.com/takatiny/hitori-furusato-pins/master/ig-real-2026-07-24/ig-real-2026-07-24-kome-2.jpg （魅力：能登うまれの笑顔になるおいしさ）
 3. https://raw.githubusercontent.com/takatiny/hitori-furusato-pins/master/ig-real-2026-07-24/ig-real-2026-07-24-kome-3.jpg （信頼：楽天ランキング3冠達成）
 
 ## アフィリンク（lit.link更新・リンクスタンプ用）
